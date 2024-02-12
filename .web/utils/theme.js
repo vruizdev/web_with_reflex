@@ -1,0 +1,1 @@
+export default {"styles": {"global": {":root": {}, "body": {"fontFamily": "Press Start 2P", "color": "#FFFFFF", "background": "#212529"}}}}
